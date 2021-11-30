@@ -1,0 +1,4 @@
+br\com\senior\entity\Calculadora.class
+br\com\senior\controller\CalculadoraController.class
+br\com\senior\repository\CalculadoraRepository.class
+br\com\senior\calculadora\CalculadoraApplication.class
